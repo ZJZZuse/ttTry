@@ -1,0 +1,12 @@
+D:\vsworkplace\taobaoAutoTry\taobaoAutoTry\bin\Debug\taobaoAutoTry.exe
+D:\vsworkplace\taobaoAutoTry\taobaoAutoTry\bin\Debug\taobaoAutoTry.pdb
+D:\vsworkplace\taobaoAutoTry\taobaoAutoTry\bin\Debug\taobaoAutoTry.xml
+D:\vsworkplace\taobaoAutoTry\taobaoAutoTry\obj\x86\Debug\taobaoAutoTry.Form1.resources
+D:\vsworkplace\taobaoAutoTry\taobaoAutoTry\obj\x86\Debug\taobaoAutoTry.Resources.resources
+D:\vsworkplace\taobaoAutoTry\taobaoAutoTry\obj\x86\Debug\taobaoAutoTry.vbproj.GenerateResource.Cache
+D:\vsworkplace\taobaoAutoTry\taobaoAutoTry\obj\x86\Debug\taobaoAutoTry.exe
+D:\vsworkplace\taobaoAutoTry\taobaoAutoTry\obj\x86\Debug\taobaoAutoTry.xml
+D:\vsworkplace\taobaoAutoTry\taobaoAutoTry\obj\x86\Debug\taobaoAutoTry.pdb
+D:\vsworkplace\taobaoAutoTry\taobaoAutoTry\bin\Debug\Newtonsoft.Json.dll
+D:\vsworkplace\taobaoAutoTry\taobaoAutoTry\bin\Debug\Newtonsoft.Json.xml
+D:\vsworkplace\taobaoAutoTry\taobaoAutoTry\obj\x86\Debug\taobaoAutoTry.vbprojResolveAssemblyReference.cache
